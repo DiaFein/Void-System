@@ -299,6 +299,8 @@ Void Linux installation was done following the [official guide](https://docs.voi
     ```bash
     sudo ln -s /usr/share/fontconfig/conf.avail/70-no-bitmaps.conf /etc/fonts/conf.d/
     sudo xbps-reconfigure -f fontconfig
+    /or/
+    https://drive.usercontent.google.com/download?id=1M5tGl5-g0ih8wc-w5-_Hs6kQcJLQwCEQ&export=download&authuser=0
     ``` 
 
 ## Media player <a id='media_player'></a>
